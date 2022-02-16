@@ -1,1 +1,5 @@
-echo "test_my_php_code";
+<?php
+
+	echo "dy";
+
+?>
